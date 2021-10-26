@@ -1,4 +1,4 @@
-
+计算机基础 -》编译原理 -〉内存
 ### [编译原理](https://zcw713.github.io/source/pages/%E7%BC%96%E8%AF%91)
 - iOS编译原理，涉及到的编译过程：预处理、编译器、汇编器、链接器；
 - iOS编译对应的Xcode中build settings配置；
