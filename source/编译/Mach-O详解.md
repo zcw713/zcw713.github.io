@@ -2,9 +2,10 @@
 > Mach-O 是 Mach Object 文件格式的缩写，是 mac 以及 iOS 上可执行文件的格式
 
 #### 1.常见 Mach-O 文件：
-a.目标文件：.o
-b.库文件：.a、.lib、framework
-c.可执行文件：dyld、.dsym
+* 目标文件：.o
+* 库文件：.a、.lib、framework
+* 可执行文件：dyld、.dsym
+
 #### 2.文件格式：
 Mach-O 可以是多架构的二进制文件，称之为 [通用二进制文件] 或者 [Fat Binary]。Mach-O 支持多架构在一个包中，如：armv7、arm64等，iOS实际下载安装的只会用其中一个架构。
 #### 3.拆分、重组 Mach-O     
