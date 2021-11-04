@@ -1,5 +1,9 @@
+编译原理 -> 数据结构 -> C -> 内存 - > iOS实现原理
+
 计算机基础 -> 编译原理 -> 内存 ->    iOS底层
+
 页面渲染原理 -> 图片、视频加载 -> View加载与绘制 -> 事件
+
 ### [编译原理](https://zcw713.github.io/source/pages/%E7%BC%96%E8%AF%91)
 - [Mach-O详解](https://zcw713.github.io/source/pages/%E7%BC%96%E8%AF%91)
 - [编译流程](https://zcw713.github.io/source/pages/%E7%BC%96%E8%AF%91)
