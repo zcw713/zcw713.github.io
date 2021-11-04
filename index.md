@@ -5,7 +5,7 @@
 页面渲染原理 -> 图片、视频加载 -> View加载与绘制 -> 事件
 
 ### [编译原理](https://zcw713.github.io/source/pages/%E7%BC%96%E8%AF%91)
-- [Mach-O详解](https://zcw713.github.io/source/pages/%E7%BC%96%E8%AF%91)
+- [Mach-O详解](https://zcw713.github.io/source/%E7%BC%96%E8%AF%91/Mach-O%E8%AF%A6%E8%A7%A3)
 - [编译流程](https://zcw713.github.io/source/pages/%E7%BC%96%E8%AF%91)
 - iOS编译原理，涉及到的编译过程：预处理、编译器、汇编器、链接器；
 - iOS编译对应的Xcode中build settings配置；
